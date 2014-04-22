@@ -10,7 +10,7 @@ Two new things I learned about the web are the following.
 	1. The Internet is different than the World Wide Web.   The internet is a system of interconnected computer networks using a set of standard protocols to talk to one another.  The Web is a set of applications built on top of the Internet.
 	2. A web site is a set of static web pages that isnt updated often while a web application is dynamic in which it is always changing and updated based on your interaction.
 
-Some important things to remember when setting up your HTML site is that you should have a domain name setup, the domain name is your address that is listed on a DNS server which will provide the ip address of your web server.    If you do not have a domain name setup, you will have to rely on using an ip address to directly access your website.   On last thing you need is a web browser to translate your HTML tags to a format you can easily read and understand.
+Some important things to remember when setting up your HTML site is that you should have a domain name setup, the domain name is your address that is listed on a DNS server which will provide the ip address of your web server.    If you do not have a domain name setup, you will have to rely on using an ip address to directly access your website.   One last thing you need is a web browser to translate your HTML tags to a format you can easily read and understand.
 
 It was great to see my web page live.   I didnt realize you can directly link to GitHub using (Username).github.io.  I thought GitHub only stores your repository and you'll have to move the files to another web server to host your files.
 
