@@ -21,12 +21,12 @@ To create a new repository use the following steps below.
 
 To clone a repository use the follow steps below.
   Before you start, make sure you have the GitHub client installed.   For Windows (https://windows.github.com/).   For      Macs (https://mac.github.com/)
-    1. Once you have Github installed, link the GitHub client to your account that you created on GitHub.
-    2. On your GitHub client screen, you will see This Computer and GitHub.com.   Click on GitHub.com.   
-    3. You will now see a list of repositories you created on GitHub.com.
-    4. Click on the button "Clone to computer"
-    5. A window will pop up and ask you where to save it.   Select a directory name and where to save the repository.
-    6. The repository is now cloned to your desktop.
+  1. Once you have Github installed, link the GitHub client to your account that you created on GitHub.
+  2. On your GitHub client screen, you will see This Computer and GitHub.com.   Click on GitHub.com.   
+  3. You will now see a list of repositories you created on GitHub.com.
+  4. Click on the button "Clone to computer"
+  5. A window will pop up and ask you where to save it.   Select a directory name and where to save the repository.
+  6. The repository is now cloned to your desktop.
 
 Open Source - Is a practice in which the original source code is freely available to distribute, use, and modify.
 
