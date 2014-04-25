@@ -10,6 +10,7 @@
 One big question I had was when to use an ID vs a Class.  When using Sublime Text 2, I noticed that in my editor it was throwing warning messages stating "Don't use ID in Selectors".   Sublime doesnt not explain why, but my css code works perfectly fine.   From my understanding it seems that you use an ID if you are only going to see one instance of it.  Use class if you are going to manipulate multiple elements.   On my webpage, I was only using IDs to change the header, footer, sidebar, content, and sub-content.   And since they are all unique in their positioning, and style, I decided an ID is best for them.   But the warning message in Sublime was bothering me so I really wanted to make sure I'm not doing something wrong.   
 
 Site I read for more information on ID vs Class
+
 http://css-tricks.com/the-difference-between-id-and-class/
 
 http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
