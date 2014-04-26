@@ -19,13 +19,21 @@ If you would like to open tabs in a new window, please either right click or hol
 
 ## Submitting your work
 
-You need to submit your work through a form (to be released) by Sunday at 11:59pm. Expect to submit your links for each of the following:
+You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 1 Form." Expect to submit your links for each of the following:
 
 * Your new website
 * Each html page created in `unit1_projects` folder
 * Your reflection file
 * Comparing websites and values blog posts
-* Links to comments you wrote on your groups reflection
+* Your response to "getting to know your group" 
+
+### Fetching changes from DBC's master repo
+Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.
+
+- If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
+)
+directions. 
+- If you are doing it from the command line, follow [these](https://help.github.com/articles/syncing-a-fork) directions.
 
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair 3 times on your own this unit*
