@@ -42,7 +42,7 @@
   }"</p>
 
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
-  <p>To makde a screenshot of just the window use Command + Shift + 4.  Then press space bar, and click on screen.   </p>
+  <p>To make a screenshot of just the window use Command + Shift + 4.  Then press space bar, and click on screen.   </p>
 
   * Upload your own image to the web using an image hosting service.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
   ![Site Tweak](http://tleung999.github.io/unit1_projects/images/devtoolsitetweak.png)
