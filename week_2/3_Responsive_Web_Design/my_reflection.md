@@ -29,10 +29,7 @@ Sidenotes - to get the correct font em size from pixel use the following formula
     img {
       max-width:100%;
     }
-  	img {
-  	  max-width:100%;
-	  }
-
+    
   Designing a Fluid Grid Layout<br>
   https://www.youtube.com/watch?v=MBZYJ7QbN_c<br>
   Creating Fluid Images<br>
