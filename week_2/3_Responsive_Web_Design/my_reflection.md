@@ -24,9 +24,9 @@ Sidenotes - to get the correct font em size from pixel use the following formula
     h1   { font-size: 24px; }
     h1 a { font-size: 0.75em; }
     
- 		Creating Fluid Images
-    Example:
-    img {
+  Creating Fluid Images
+  Example:
+  	img {
   	  max-width:100%;
 	  }
 
