@@ -18,17 +18,29 @@ My responsive design page is at http://tleung999.github.io/unit1_projects/class1
 
 Other Resources
 Sidenotes - to get the correct font em size from pixel use the following formula.
+<<<<<<< HEAD
   Font size in pixel (Target) / Context (16px default) = em size.<br>
   If you need an em size but the tag is nested, the context is the font px size of the parent.
   Example:
+=======
+	Font size in pixel (Target) / Context (16px default) = em size.<br>
+	If you need an em size but the tag is nested, the context is the font px size of the parent.
+	Example:
+>>>>>>> 4c5a2aa3bdd601225f03bdd54fe37b1df9f092c0
     h1   { font-size: 24px; }
     h1 a { font-size: 0.75em; }
     
   Creating Fluid Images
   Example:
+<<<<<<< HEAD
     img {
       max-width:100%;
     }
+=======
+  	img {
+  	  max-width:100%;
+	  }
+>>>>>>> 4c5a2aa3bdd601225f03bdd54fe37b1df9f092c0
 
   Designing a Fluid Grid Layout<br>
   https://www.youtube.com/watch?v=MBZYJ7QbN_c<br>
