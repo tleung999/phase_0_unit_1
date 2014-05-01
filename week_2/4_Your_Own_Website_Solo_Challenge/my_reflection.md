@@ -9,3 +9,10 @@ Discuss the following:
 * What would you like to add or change about the site next?
 * Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+
+In design it is important not to simply just take other web site solution or material and apply it to yours.  You need to take the time to figure out the underline problem.   What does your client want to present to the user and what functionality would they like to see.   You should follow these four steps to design.
+
+1. Identify or understand your problem.
+2. Devise a plan to rectify it.
+3. Implement your solution.
+4. Review whether it was successful. (If it wasn’t, then you missed something in the previous steps!)
