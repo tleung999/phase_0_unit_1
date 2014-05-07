@@ -188,10 +188,60 @@ this.attackXY(49,53);
 
 //Release 3
 //What is this referring to? Think programming-wise rather than in the terms of the game.
+//this is referring to a keyword that is created when a function is created.  "This" is a
+//reference to the object and is only available to the scope of the function.
 //
 //What does the () do in JavaScript?
+//() surrounds the parameters/arguments that you may want to pass into a function.
+//If the function has no parameters, it is still necessary to use the ();  If you do not
+//use () at the end of a function such as myFunction, javascript will think it is a
+//property instead.
+//An example of a function with no parameters
+//var test = myFunction();
+//An example of a function with parameters
+//var test = myFunction(name, age);
+//
 //What is the point of the semicolons?
+//Semicolons is how Javascript determines that you are done with your statement.  
+//You can opt out and not use semicolons if you move to a new line after each statment.
+//Some minifiers also might have problems shrinking down your js file if you dont 
+//use semicolons.  Minifiers are tools that remove unnecessary characters from your
+//source code without affecting its functionality.  I am a little bias toward using semicolons
+//I came from a CS degree, so writing in Java and C++, I was always ending my code 
+//statements with semicolons.   It was basically like a period at the end of a sentence.   
 
 // Reflection:
 // Write your reflection here.
+//What parts of your strategy worked? What problems did you face?
+//Using pseudo code really helped put it all together before actually writing the code.
+//It really limited the number of back and forths I needed to do.  Only problem was finding
+//the right coordinates to attack.
+
+//What questions did you have while coding? What resources did you find to help you answer them?
+//I knew this was referencing the function you called, but I never really understood the
+//scope of this until I researched it more.  See below for the site I used to learn more about this.
+
+//What concepts are you having trouble with, or did you just figure something out? If so, what?
+//Concepts were all pretty straight foward.   Syntax wise it is pretty close to Ruby.
+
+//Did you learn any new skills or tricks?
+//I learned how to to pass in parameters just like in Ruby.
+
+//How confident are you with each of the Learning Competencies?
+//This challenge was pretty easy to understand.
+
+//Which parts of the challenge did you enjoy?
+//Enjoyed learning through a game, nice change from running example code over and over.
+
+//Which parts of the challenge did you find tedious?
+//this.moveRight();
+//this.moveLeft();
+//this.moveUp();..........
+//this.moveXY(a,b).....YAY!
+
+
+//Other Resources:
+//http://code.tutsplus.com/tutorials/fully-understanding-the-codethiscode-keyword--net-21117
+//http://en.wikipedia.org/wiki/Minification_(programming)
+//http://mislav.uniqpath.com/2010/05/semicolons/
 
