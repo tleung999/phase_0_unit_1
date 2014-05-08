@@ -71,25 +71,6 @@ terah.children.carter = {name: "Carter"};
 terah.children.colton = {name: "Colton"};
 adam.children = terah.children;
 
-
-/*
-var terah = {
-  name: "Terah",
-  age: 32,
-  height: 66,
-  weight: 125,
-  hariColor: "brown",
-  children: {carson: {name: "Carson"}, carter: {name: "Carter"}, colton: {name: "Colton"}},
-};
-
-var adam = {
-  name: "Adam",
-  children: terah.children
-};
-
-adam.spouse = terah;
-terah.spouse = adam;
-*/
 /* __________________________________________
 // Reflection: Use the reflection guidelines
     I initially thought I was suppose to build an new object and include 
