@@ -73,7 +73,7 @@ adam.children = terah.children;
 
 /* __________________________________________
 // Reflection: Use the reflection guidelines
-    I initially thought I was suppose to build an new object and include 
+    I initially thought I was suppose to build a new object and include 
     all the properties all at once.   Such that I would build out the object 
     shown below.  
     
@@ -154,8 +154,8 @@ adam.children = terah.children;
     But then I realized I was reading the whole challenge incorrectly.   The
     challenge was basically telling me to build one piece at a time.    Build
     an empty object called adam, create new properties for adam, remove a 
-    property from terah, etc.    So I rewrote the whole code challenge shown
-    below.  *YAWN*  it took me the whole evening wednesday night to realize 
+    property from terah, etc.    So I rewrote the whole code challenge (Final code
+    up above).  *YAWN*  it took me the whole evening wednesday night to realize 
     my mistake!
 
     I learned a lot about objects because of this challenge, how to delete,
@@ -166,7 +166,8 @@ adam.children = terah.children;
     only part I think I will need more practice is creating functions inside
     an object property.  
 
-    I enjoyed solving this challenge after working on it all night.   
+    I enjoyed solving this challenge after working on it all night.  The AHA
+    moment put a smile on my face.   
 
     It was tedious when I had to reset node.js since I didnt want my
     previous declaration of the object to interfere with my new update.
