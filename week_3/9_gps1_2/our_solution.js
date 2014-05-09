@@ -38,8 +38,7 @@ function Client(name, age, quote, func)
   this.name = name;
   this.age = age;
   this.quote = quote;
-  }
-}
+};
 
 var aSandler = new Client("Adam Sandler", 47, "That's your home! Are you too good for your home?!");
 var kBell = new Client("Kristen Bell", 33, "Do you wanna build a snowman?");
