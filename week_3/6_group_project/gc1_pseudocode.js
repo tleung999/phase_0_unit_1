@@ -20,4 +20,6 @@ if the number of elements is odd, then the median is the middle number of the gr
 if the number of elements is even, then the median is the middle two numbers divided by two.)
 Check the median function to make sure its a function
 Declare a new instance of mean and see if mean is an instance of it.
+
+Reflection is on gc1_refactored.js
 */

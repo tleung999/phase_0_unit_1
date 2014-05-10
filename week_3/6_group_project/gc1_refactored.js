@@ -91,3 +91,40 @@ if (typeof newCalc.median === "function") {
 else {
 	console.log("median is not a function");
 }
+
+/*Reflection
+This was a very interesting assignment since it was only 2 of us working on it.
+Since my partner was 1st, he seen the code so he kinda knew what we needed to write.
+But I did tell him that we'll be honest and pretend that we have no idea and go by exactly
+what I write on the pseudo code.   
+
+While he was deciphering my pseudo code, he did come back to me a few times to clarify exactly
+what I meant with certain sentences.    
+
+We both learned how to use objects better and how to test if something is an instance of an object
+and if its a function using typeof.
+
+I enjoyed learning about objects and everything seemed to click.
+
+I really wished we had more members so we can really experience the assignment the way it was
+intended.   I envisioned this assign to act like the telephone game, where all it takes is one
+person along the line to say something different and everything from beginning to end doesnt match.
+
+Writing user stories is important and it needs to be clear and detailed.   We need to know exactly
+what you want, what the results needs to be, and what functionality you like.   If there is no clean
+pseudo code, the actual code might not match up with what the user wants.   How things are interpreted
+is really important!  
+
+So I think our problem with why none of our test passed was because of the refactoring.   When I 
+refactored the code, I took all the individual functions and put them all into one huge object called
+Calculator.   Calculator held the three functions needed to get the sum, mean, and median.   But the 
+test had them split up.    So unless we change the refactored code or we change the test, it wont match
+apples to apples.    
+
+I understand that this how the software development lifecycle works so I except to see more
+of this as we get deeper into the bootcamp.   Exciting!
+
+
+
+
+*/
