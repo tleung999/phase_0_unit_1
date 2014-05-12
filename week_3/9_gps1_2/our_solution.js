@@ -6,12 +6,9 @@
 
 
 // 0. "YOU SIGNED... WHO?!"
-<<<<<<< HEAD
 /*
 We first talked about assigning the data to arrays, individual variable, or Objects.
 We ended up using Objects for our solution.
-=======
->>>>>>> upstream/master
 
 Pseudo Code
 Create Objects for each of our new clients
@@ -33,17 +30,7 @@ var jCarrey = {name: "Jim Carrey",
               age: 52,
               quote: "...So you're telling me there's a chance? YEAH!"};
 
-<<<<<<< HEAD
-=======
-// 1. "Here they Come!"
-
-
-
-
-
->>>>>>> upstream/master
 // 2. "TIME IS MONEY!"
-
 //YOUR CODE HERE!
 function Client(name, age, quote, func)
 {
@@ -61,7 +48,6 @@ shooterMcGavin.constructor === Client;
 shooterMcGavin.age === 48;
 shooterMcGavin.quote === "Just stay out of my way... or you'll pay. Listen to what I say.";
 
-<<<<<<< HEAD
 // 3. "SHOW 'EM OFF!"
 function printClient(client){
     console.log("name: "+ client.name+ " age: "+ client.age + " quote: "+ client.quote);
@@ -84,22 +70,10 @@ function Client(name, age, quote, func)
 }
 
 jCarrey.showQuote();
-=======
 
+// 5.  ** BONUS **
 
-
-
-// 3. "SHOW 'EM OFF!"
-
-
-
->>>>>>> upstream/master
-
-
-// 4. "But wait, there's more!"
-
-<<<<<<< HEAD
-//  Your Reflection:
+//  6.  Your Reflection:
 /*
 Building the pseudo code and deciding which direction to start was really helpful in 
 laying the groundwork on how to tackle the problem.  We ran into a problem when we had 
@@ -115,11 +89,3 @@ object, but moving beyond that and building a constructor that can call upon the
 object over and over is new for me.   I didnt find anything tedious about the project.
 Everyone was new and fun.
 */ 
-=======
-
-
-// 5.  ** BONUS **
-
-
-//  6.  Your Reflection:
->>>>>>> upstream/master
