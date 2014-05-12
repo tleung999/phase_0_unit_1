@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-##U1.W2: GPS 1.1: Your First Pairing Session! 
+#U1.W2: GPS 1.1: Your First Pairing Session! 
 
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
 
@@ -55,7 +55,7 @@ What was it like to pair for the first time? Did you enjoy it? What worked? What
 When you are finished, copy your code into the [gps1.1.css](gps1.1.css) and [gps1.1.html](gps1.1.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them 
 and running them together from your computer. 
 
-Commit and sync your changes onto the phase_0_unit_1 repository. 
+Commit and sync/push your changes onto the phase_0_unit_1 repository. 
 
 ## Release 6: Give Feedback
 Don't forget to give [feedback](https://socrates.devbootcamp.com/feedback/new) to your pair!
